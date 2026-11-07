@@ -1,27 +1,66 @@
-# 💫 About Me:
-🔭 I’m working on a bot navigation system using DFS and implementing robot designs for maze-solving challenges.<br>🌱 I’m learning to optimize bot movements and avoid revisiting cells using efficient algorithms.<br>💬 Ask me about robotics, algorithms, UI/UX designs, and 3D modeling/animation.<br>⚡ Fun fact: If you make a mistake in design, just call it "abstract art"—suddenly, it's worth millions!
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=D0BCFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Prasanna+%F0%9F%91%8B;Full-stack+dev+%C2%B7+Simulation+%C2%B7+Design;Building+things+that+actually+ship" alt="Typing intro" />
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/prasannagupta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_pg__13/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prasanna-gupta-ba6636330) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@pg-13Studios) 
+<sub>B.Tech ICT · Dhirubhai Ambani University · Class of 2027</sub>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prasanna Gupta&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prasanna Gupta&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna Gupta&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prasanna Gupta&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://www.linkedin.com/in/prasanna-gupta-ba6636330"><img src="https://img.shields.io/badge/LinkedIn-1D1B20?style=flat-square&logo=linkedin&logoColor=D0BCFF" /></a>
+<a href="https://www.behance.net/prasannagupta"><img src="https://img.shields.io/badge/Behance-1D1B20?style=flat-square&logo=behance&logoColor=D0BCFF" /></a>
+<a href="https://www.youtube.com/@pg-13Studios"><img src="https://img.shields.io/badge/YouTube-1D1B20?style=flat-square&logo=youtube&logoColor=D0BCFF" /></a>
+<a href="https://www.instagram.com/_pg__13/"><img src="https://img.shields.io/badge/Instagram-1D1B20?style=flat-square&logo=instagram&logoColor=D0BCFF" /></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prasanna Gupta&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Prasanna Gupta&icon=2&color=3)](https://visitcount.itsvg.in)
+### ◆ About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Building a **coal-mine digital twin** — Python physics sim streaming live telemetry over WebSocket into an **Unreal Engine 5** client
+- 🌱 Getting deeper into **Kotlin Multiplatform**, real-time systems, and clean minimal UI
+- 🐧 Daily-driving a custom **Arch (EndeavourOS) + KDE** setup with a Material You theming pipeline
+- 💬 Ask me about full-stack web, simulations, UI/UX, and 3D modeling/animation
+- ⚡ Fun fact: if you make a mistake in design, just call it *"abstract art"* — suddenly it's worth millions
+
+<br/>
+
+### ◆ Featured Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Mine Digital Twin** | Real-time coal mine simulation — MPC truck control, Kalman filtering, K-Median tower placement, A* routing, visualised live in UE5 | `Python` `NumPy` `WebSocket` `UE5` `C++` |
+| **Contra Fund Analytics** | Full-stack fund analytics dashboard | `React` `Node` `Express` `MongoDB` |
+| **NextChapter** | Web app built on a modern serverless stack | `Next.js` `Supabase` |
+| **Polar Codes** | Polar code encoding/decoding implementation and analysis | `MATLAB` `Python` |
+| **RepUp** | Social fitness tracker for a small friend group — workouts, diet, streaks, private groups | `Kotlin MP` `Compose` `Fastify` `Supabase` |
+| **[Prasanna OS](https://github.com/Prasanna-Gupta/dotfiles)** | My Arch/KDE dotfiles — wallpaper-driven Material You theming | `Shell` `matugen` `KDE` |
+
+<br/>
+
+### ◆ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,cpp,php,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,mysql,supabase&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=unreal,matlab,blender,figma,ps,git,github,linux,arch&theme=dark" />
+</p>
+
+<br/>
+
+### ◆ GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Gupta&show_icons=true&hide_border=true&bg_color=00000000&title_color=D0BCFF&icon_color=D0BCFF&text_color=CAC4D0&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Gupta&layout=compact&hide_border=true&bg_color=00000000&title_color=D0BCFF&text_color=CAC4D0&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=Prasanna-Gupta&hide_border=true&background=00000000&ring=D0BCFF&fire=D0BCFF&currStreakNum=E6E1E5&sideNums=E6E1E5&currStreakLabel=D0BCFF&sideLabels=CAC4D0&dates=938F99" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>◆ minimal by design ◆</sub>
+</div>
